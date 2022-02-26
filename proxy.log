@@ -1,0 +1,17 @@
+2022-02-25 18:13:34,180:INFO:Call-ID:nf5nhH2w4c Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
+2022-02-25 18:13:36,871:INFO:Call-ID:nf5nhH2w4c Pouzivatel kabadmobil@192.168.43.99 prijal hovor od pouzivatela proxy@192.168.43.99
+2022-02-25 18:13:40,181:INFO:Call-ID:nf5nhH2w4c Pouzivatel proxy@192.168.43.99 ukoncil hovor s pouzivatelom kabadmobil@192.168.43.99
+2022-02-25 18:13:43,153:INFO:Call-ID:P-oEGSx~O~ Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
+2022-02-25 18:13:44,908:INFO:Call-ID:P-oEGSx~O~ Pouzivatel kabadmobil@192.168.43.99 prijal hovor od pouzivatela proxy@192.168.43.99
+2022-02-25 18:13:46,759:INFO:Call-ID:P-oEGSx~O~ Pouzivatel kabadmobil@192.168.43.99 ukoncil hovor s pouzivatelom proxy@192.168.43.99
+2022-02-25 18:13:54,624:INFO:Call-ID:~wpx2NVgqo Hovor od kabadmobil@192.168.43.99 pre proxy@192.168.43.99
+2022-02-25 18:13:57,320:INFO:Call-ID:~wpx2NVgqo Pouzivatel proxy@192.168.43.99 prijal hovor od pouzivatela kabadmobil@192.168.43.99
+2022-02-25 18:14:00,429:INFO:Call-ID:~wpx2NVgqo Pouzivatel proxy@192.168.43.99 ukoncil hovor s pouzivatelom kabadmobil@192.168.43.99
+2022-02-25 18:14:07,950:INFO:Call-ID:jZz9PPrk0B Hovor od kabadmobil@192.168.43.99 pre proxy@192.168.43.99
+2022-02-25 18:14:10,884:INFO:Call-ID:jZz9PPrk0B Pouzivatel proxy@192.168.43.99 prijal hovor od pouzivatela kabadmobil@192.168.43.99
+2022-02-25 18:14:13,384:INFO:Call-ID:jZz9PPrk0B Pouzivatel kabadmobil@192.168.43.99 ukoncil hovor s pouzivatelom proxy@192.168.43.99
+2022-02-25 18:15:10,935:INFO:Call-ID:EnNyfyDJSv Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
+2022-02-25 18:15:14,859:INFO:Call-ID:8gQA1-8mOo Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
+2022-02-25 18:15:16,769:INFO:Call-ID:8gQA1-8mOo Pouzivatel proxy@192.168.43.99 zrusil hovor s pouzivatelom kabadmobil@192.168.43.99
+2022-02-25 18:17:39,807:INFO:Call-ID:0fNqblTznd Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
+2022-02-25 18:17:41,384:INFO:Call-ID:0fNqblTznd Pouzivatel kabadmobil@192.168.43.99 odmietol hovor od pouzivatela proxy@192.168.43.99
