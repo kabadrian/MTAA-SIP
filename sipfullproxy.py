@@ -61,6 +61,8 @@ rx_contact_expires = re.compile("expires=([^;$]*)")
 rx_expires = re.compile("^Expires: (.*)$")
 rx_cseq = re.compile("^CSeq: ")
 rx_call_id = re.compile("^Call-ID:")
+rx_busy_here = re.compile("Busy here")
+rx_trying = re.compile("Trying")
 
 # global dictionnary
 recordroute = ""
@@ -404,8 +406,10 @@ class UDPHandler(socketserver.BaseRequestHandler):
                 dest = self.getDestination()
 
                 # replace Busy Here status message
-                rx_search = re.compile("486 Busy Here")
-                self.data[0] = rx_search.sub("486 Obsadené", self.data[0])
+                if rx_busy_here.search(self.data[0]):
+                    self.data[0] = rx_busy_here.sub("Obsadené", self.data[0])
+                elif rx_trying.search(self.data[0]):
+                    self.data[0] = rx_trying.sub("Skúšam", self.data[0])
 
                 if re.compile("200 Ok").search(self.data[0]):
                     if re.compile("INVITE").search(self.getCSeq()):

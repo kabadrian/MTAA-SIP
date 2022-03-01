@@ -15,3 +15,227 @@
 2022-02-25 18:15:16,769:INFO:Call-ID:8gQA1-8mOo Pouzivatel proxy@192.168.43.99 zrusil hovor s pouzivatelom kabadmobil@192.168.43.99
 2022-02-25 18:17:39,807:INFO:Call-ID:0fNqblTznd Hovor od proxy@192.168.43.99 pre kabadmobil@192.168.43.99
 2022-02-25 18:17:41,384:INFO:Call-ID:0fNqblTznd Pouzivatel kabadmobil@192.168.43.99 odmietol hovor od pouzivatela proxy@192.168.43.99
+2022-02-26 14:51:41,558:Call-ID:wQeMfb2~76 Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:51:53,634:Call-ID:wQeMfb2~76 Pouzivatel mobil1@147.175.163.88 zrusil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 14:52:38,915:Call-ID:ToTbxUujRw Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:52:43,608:Call-ID:ToTbxUujRw Pouzivatel pc2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 14:52:46,371:Call-ID:ToTbxUujRw Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:52:46,398:Call-ID:ToTbxUujRw Pouzivatel pc2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 14:52:58,245:Call-ID:ToTbxUujRw Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 14:54:05,939:Call-ID:~A5no0QMf5 Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:54:11,496:Call-ID:~A5no0QMf5 Pouzivatel pc2@147.175.163.88 odmietol hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 14:54:17,465:Call-ID:hWEk3ftoBr Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:54:21,092:Call-ID:hWEk3ftoBr Pouzivatel mobil1@147.175.163.88 zrusil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 14:54:31,435:Call-ID:mL3ZSENfR9 Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:54:36,155:Call-ID:mL3ZSENfR9 Pouzivatel pc2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 14:54:38,603:Call-ID:mL3ZSENfR9 Hovor od mobil1@147.175.163.88 pre pc2@147.175.163.88
+2022-02-26 14:54:38,644:Call-ID:mL3ZSENfR9 Pouzivatel pc2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 14:54:39,422:Call-ID:mL3ZSENfR9 Pouzivatel pc2@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-26 14:55:30,010:Call-ID:BsWrmFFXQK Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:55:32,060:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:55:32,877:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:55:34,619:Call-ID:BsWrmFFXQK Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:55:34,831:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:55:39,444:Call-ID:BsWrmFFXQK Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:55:41,126:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:55:41,698:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:55:43,218:Call-ID:BsWrmFFXQK Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:55:43,308:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:56:04,725:Call-ID:BsWrmFFXQK Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 14:57:01,813:Call-ID:MGDufR6wm3 Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:57:03,604:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:04,518:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:06,471:Call-ID:MGDufR6wm3 Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:57:06,590:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:07,699:Call-ID:MGDufR6wm3 Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:57:08,999:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:09,542:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:11,828:Call-ID:MGDufR6wm3 Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 14:57:11,964:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 14:57:19,578:Call-ID:MGDufR6wm3 Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 15:07:43,166:Call-ID:CH1-rW3AOj Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:07:43,216:Call-ID:EznBjtWAA- Hovor od pc2@147.175.163.88 pre mobil2@147.175.163.88
+2022-02-26 15:07:51,442:Call-ID:CH1-rW3AOj Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:07:53,953:Call-ID:CH1-rW3AOj Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:07:54,106:Call-ID:CH1-rW3AOj Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:07:56,512:Call-ID:EznBjtWAA- Pouzivatel mobil2@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:09:33,550:Call-ID:CH1-rW3AOj Pouzivatel pc2@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-26 15:09:33,600:Call-ID:EznBjtWAA- Pouzivatel pc2@147.175.163.88 ukoncil hovor s pouzivatelom mobil2@147.175.163.88
+2022-02-26 15:10:24,997:Call-ID:w~MwwCuXmM Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:10:26,811:Call-ID:w~MwwCuXmM Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:10:27,862:Call-ID:w~MwwCuXmM Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:10:29,607:Call-ID:w~MwwCuXmM Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:10:29,707:Call-ID:w~MwwCuXmM Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:10:53,565:Call-ID:w~MwwCuXmM Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:10:53,695:Call-ID:w~MwwCuXmM Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:10:53,952:Call-ID:IbXWayJRpK Hovor od pc2@147.175.163.88 pre mobil2@147.175.163.88
+2022-02-26 15:10:59,707:Call-ID:IbXWayJRpK Pouzivatel mobil2@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:11:00,109:Call-ID:IbXWayJRpK Pouzivatel mobil2@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:11:42,408:Call-ID:IbXWayJRpK Pouzivatel pc2@147.175.163.88 ukoncil hovor s pouzivatelom mobil2@147.175.163.88
+2022-02-26 15:11:51,121:Call-ID:w~MwwCuXmM Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 15:12:34,218:Call-ID:pOVDArPNaq Hovor od mobil1@147.175.163.88 pre mobil2@147.175.163.88
+2022-02-26 15:12:36,478:Call-ID:pOVDArPNaq Pouzivatel mobil2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 15:12:52,145:Call-ID:hHdjpslxlL Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:13:01,505:Call-ID:pOVDArPNaq Hovor od mobil1@147.175.163.88 pre mobil2@147.175.163.88
+2022-02-26 15:13:01,509:Call-ID:hHdjpslxlL Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:13:01,583:Call-ID:pOVDArPNaq Pouzivatel mobil2@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-26 15:13:02,694:Call-ID:hHdjpslxlL Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:13:04,455:Call-ID:hHdjpslxlL Hovor od pc2@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-26 15:13:04,564:Call-ID:hHdjpslxlL Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc2@147.175.163.88
+2022-02-26 15:13:12,831:Call-ID:hHdjpslxlL Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc2@147.175.163.88
+2022-02-26 15:13:16,314:Call-ID:pOVDArPNaq Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom mobil2@147.175.163.88
+2022-02-28 15:58:24,015:Call-ID:EaXnNwd-p9 Hovor od pc1@147.175.163.88 pre jurkoo@147.175.163.88
+2022-02-28 15:58:28,632:Call-ID:EaXnNwd-p9 Pouzivatel pc1@147.175.163.88 zrusil hovor s pouzivatelom jurkoo@147.175.163.88
+2022-02-28 15:58:32,074:Call-ID:IiYZDZl903 Hovor od jurkoo@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 15:58:33,665:Call-ID:IiYZDZl903 Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela jurkoo@147.175.163.88
+2022-02-28 15:58:35,574:Call-ID:IiYZDZl903 Hovor od jurkoo@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 15:58:35,619:Call-ID:IiYZDZl903 Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela jurkoo@147.175.163.88
+2022-02-28 15:58:41,207:Call-ID:IiYZDZl903 Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom jurkoo@147.175.163.88
+2022-02-28 16:25:01,569:Call-ID:lu~pc5i97L Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:25:08,358:Call-ID:lu~pc5i97L Pouzivatel mobil1@147.175.163.88 zrusil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:25:58,711:Call-ID:92jOb0fPFc Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:26:04,596:Call-ID:92jOb0fPFc Pouzivatel mobil1@147.175.163.88 zrusil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:26:41,316:Call-ID:EECKsRs~hl Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:26:45,631:Call-ID:EECKsRs~hl Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:26:46,225:Call-ID:EECKsRs~hl Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:26:56,357:Call-ID:EECKsRs~hl Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:28:03,307:Call-ID:K8ja1oS08j Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:28:08,531:Call-ID:K8ja1oS08j Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:28:10,438:Call-ID:K8ja1oS08j Pouzivatel jurko@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 16:28:17,721:Call-ID:VdfGR-uOAG Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:28:21,064:Call-ID:VdfGR-uOAG Pouzivatel jurko@147.175.163.88 odmietol hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:28:25,346:Call-ID:yL1C0euiV3 Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:28:26,478:Call-ID:yL1C0euiV3 Pouzivatel mobil1@147.175.163.88 zrusil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:30:05,302:Call-ID:FZLbVa1HSJ Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:30:08,854:Call-ID:FZLbVa1HSJ Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:30:28,179:Call-ID:FZLbVa1HSJ Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:31:28,755:Call-ID:WgjK4osHJ~ Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 16:31:31,136:Call-ID:WgjK4osHJ~ Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:31:31,646:Call-ID:WgjK4osHJ~ Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 16:31:45,160:Call-ID:WgjK4osHJ~ Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 16:32:34,628:Call-ID:0agHFawDSz Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 16:32:36,257:Call-ID:0agHFawDSz Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 16:32:48,091:Call-ID:0agHFawDSz Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 16:32:48,590:Call-ID:0agHFawDSz Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 16:44:33,390:Call-ID:JHvGJuxVzh Hovor od pc1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 16:44:37,437:Call-ID:JHvGJuxVzh Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 16:45:10,620:Call-ID:JHvGJuxVzh Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 16:59:50,514:Call-ID:88v-qAzS-t Hovor od jurkoo@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 16:59:54,113:Call-ID:88v-qAzS-t Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela jurkoo@147.175.163.88
+2022-02-28 16:59:55,841:Call-ID:88v-qAzS-t Hovor od jurkoo@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 16:59:55,947:Call-ID:88v-qAzS-t Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela jurkoo@147.175.163.88
+2022-02-28 17:00:44,307:Call-ID:88v-qAzS-t Pouzivatel jurkoo@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 17:15:45,938:Call-ID:3~hXZKf-9B Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:15:48,110:Call-ID:3~hXZKf-9B Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:15:50,874:Call-ID:3~hXZKf-9B Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:15:50,975:Call-ID:3~hXZKf-9B Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:15:53,196:Call-ID:3~hXZKf-9B Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 17:23:26,975:Call-ID:7Y4Uohge2h Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:23:31,254:Call-ID:7Y4Uohge2h Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:23:33,646:Call-ID:7Y4Uohge2h Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:23:33,768:Call-ID:7Y4Uohge2h Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:24:44,910:Call-ID:7Y4Uohge2h Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom martinmacbook@147.175.163.88
+2022-02-28 17:34:03,351:Call-ID:TtFTwleOss Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:34:06,498:Call-ID:TtFTwleOss Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:34:08,744:Call-ID:TtFTwleOss Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:34:08,792:Call-ID:TtFTwleOss Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:36:23,608:Call-ID:TtFTwleOss Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom martinmacbook@147.175.163.88
+2022-02-28 17:36:28,733:Call-ID:ACyhPNgGBd Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:36:31,585:Call-ID:ACyhPNgGBd Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:36:33,670:Call-ID:ACyhPNgGBd Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:36:33,689:Call-ID:ACyhPNgGBd Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:37:10,717:Call-ID:ACyhPNgGBd Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 17:39:26,144:Call-ID:CfMEtSpgKx Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:39:47,549:Call-ID:a~-h76OOLc Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:39:58,061:Call-ID:0BbU2xYgrD Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:40:17,884:Call-ID:naSdMYm4NW Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:40:21,037:Call-ID:naSdMYm4NW Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:40:21,597:Call-ID:naSdMYm4NW Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:40:23,298:Call-ID:naSdMYm4NW Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:40:23,422:Call-ID:naSdMYm4NW Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:40:32,852:Call-ID:naSdMYm4NW Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 17:41:07,198:Call-ID:VZ2VIFE3L3 Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:41:09,968:Call-ID:VZ2VIFE3L3 Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:41:12,229:Call-ID:VZ2VIFE3L3 Hovor od mobil1@147.175.163.88 pre martinmacbook@147.175.163.88
+2022-02-28 17:41:12,257:Call-ID:VZ2VIFE3L3 Pouzivatel martinmacbook@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:44:08,398:Call-ID:VZ2VIFE3L3 Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom martinmacbook@147.175.163.88
+2022-02-28 17:44:14,547:Call-ID:9OTYycKnez Hovor od martinmacbook@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:44:16,491:Call-ID:9OTYycKnez Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela martinmacbook@147.175.163.88
+2022-02-28 17:44:18,539:Call-ID:9OTYycKnez Hovor od martinmacbook@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:44:18,710:Call-ID:9OTYycKnez Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela martinmacbook@147.175.163.88
+2022-02-28 17:44:21,205:Call-ID:9OTYycKnez Hovor od martinmacbook@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:44:22,951:Call-ID:9OTYycKnez Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela martinmacbook@147.175.163.88
+2022-02-28 17:44:24,480:Call-ID:9OTYycKnez Hovor od martinmacbook@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:44:24,619:Call-ID:9OTYycKnez Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela martinmacbook@147.175.163.88
+2022-02-28 17:44:45,469:Call-ID:9OTYycKnez Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom martinmacbook@147.175.163.88
+2022-02-28 17:46:27,613:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:46:31,306:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:46:33,686:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:46:33,811:Call-ID:k~SFO9EOyf Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 17:46:35,728:Call-ID:k~SFO9EOyf Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:46:35,999:Call-ID:k~SFO9EOyf Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:46:37,680:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:46:37,702:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:46:52,412:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:46:52,438:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:46:59,381:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:47:04,894:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:47:07,201:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:47:07,232:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:47:21,166:Call-ID:k~SFO9EOyf Hovor od mobil1@147.175.163.88 pre pc1@147.175.163.88
+2022-02-28 17:47:21,206:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:47:21,725:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 17:47:24,963:Call-ID:k~SFO9EOyf Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 17:49:10,639:Call-ID:77fNExb56v Hovor od pc1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 17:49:15,714:Call-ID:77fNExb56v Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 17:49:31,781:Call-ID:77fNExb56v Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 18:02:48,219:Call-ID:zDdvQxOsVb Hovor od mobil1@147.175.163.88 pre jurko@147.175.163.88
+2022-02-28 18:02:52,715:Call-ID:zDdvQxOsVb Pouzivatel jurko@147.175.163.88 prijal hovor od pouzivatela mobil1@147.175.163.88
+2022-02-28 18:04:29,024:Call-ID:zDdvQxOsVb Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom jurko@147.175.163.88
+2022-02-28 18:05:46,857:Call-ID:IkEsQ0SFGy Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:05:48,485:Call-ID:IkEsQ0SFGy Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:05:51,459:Call-ID:IkEsQ0SFGy Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:05:52,338:Call-ID:IkEsQ0SFGy Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:05:59,124:Call-ID:IkEsQ0SFGy Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 18:07:44,091:Call-ID:n8KQkWfmJ- Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:07:45,587:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:07:46,528:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:07:48,506:Call-ID:n8KQkWfmJ- Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:07:48,594:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:07:50,975:Call-ID:n8KQkWfmJ- Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:07:52,667:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:07:53,178:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:07:55,316:Call-ID:n8KQkWfmJ- Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:07:55,396:Call-ID:n8KQkWfmJ- Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:08:04,732:Call-ID:n8KQkWfmJ- Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 18:09:59,728:Call-ID:QslTlkr6Mr Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:12:41,040:Call-ID:qdU0QQAfnz Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:12:43,310:Call-ID:qdU0QQAfnz Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:12:44,234:Call-ID:qdU0QQAfnz Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:12:46,016:Call-ID:qdU0QQAfnz Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:12:46,033:Call-ID:qdU0QQAfnz Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 18:14:23,305:Call-ID:0J9WS6vwJA Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:14:27,035:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:14:28,026:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:14:29,832:Call-ID:0J9WS6vwJA Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:14:29,938:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:14:30,135:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 18:14:30,465:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:14:30,639:Call-ID:0J9WS6vwJA Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 18:15:26,940:Call-ID:aXM1683tGu Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:15:28,486:Call-ID:aXM1683tGu Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:15:31,240:Call-ID:aXM1683tGu Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:15:31,326:Call-ID:aXM1683tGu Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:15:31,890:Call-ID:aXM1683tGu Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 18:16:04,472:Call-ID:B53fGkq99a Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:16:06,084:Call-ID:B53fGkq99a Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:16:08,854:Call-ID:B53fGkq99a Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:16:08,960:Call-ID:B53fGkq99a Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:16:09,478:Call-ID:B53fGkq99a Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:16:12,409:Call-ID:B53fGkq99a Pouzivatel pc1@147.175.163.88 ukoncil hovor s pouzivatelom mobil1@147.175.163.88
+2022-02-28 18:16:53,232:Call-ID:sbtxY4jqlR Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:16:55,427:Call-ID:sbtxY4jqlR Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:16:56,113:Call-ID:sbtxY4jqlR Pouzivatel mobil1@147.175.163.88 prijal hovor od pouzivatela pc1@147.175.163.88
+2022-02-28 18:16:57,166:Call-ID:sbtxY4jqlR Pouzivatel mobil1@147.175.163.88 ukoncil hovor s pouzivatelom pc1@147.175.163.88
+2022-02-28 18:17:41,307:Call-ID:4ravFW-WkH Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
+2022-02-28 18:18:58,405:Call-ID:a-e4Wd09LV Hovor od pc1@147.175.163.88 pre mobil1@147.175.163.88
